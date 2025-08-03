@@ -1,3 +1,4 @@
+**`force_analysis.m`** is the main script that orchestrates the entire analysis pipeline.  
 .
 ├── /1_primary/Forcesensor/          # Raw sensor data (.mat files per subject)
 ├── /04 Works/02 BRUSH exp/Mat/      # Main MATLAB scripts and functions
